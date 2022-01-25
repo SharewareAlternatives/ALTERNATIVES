@@ -1,10 +1,10 @@
 # ALTERNATIVES TO CUCKWARE
 
-The is a list of popular software that has alternatives with a non-cucked (non-permissive) liscense.
-[List of Copyleft software licenses](https://en.wikipedia.org/wiki/Category:Copyleft_software_licenses)
-We prefer a strong copyleft (like GPL) over a weak copyleft like MPL
-We prefer a GPL compatible license over a non compatible one like FAL
-If you are confused by the term "strong copyleft" and "GPL compatible" you can learn more at this [gnu.org link](gnu.org/licenses)
+The is a list of popular software that has alternatives with a non-cucked (non-permissive) liscense.\
+[List of Copyleft software licenses](https://en.wikipedia.org/wiki/Category:Copyleft_software_licenses)\
+We prefer a strong copyleft (like GPL) over a weak copyleft like MPL\
+We prefer a GPL compatible license over a non compatible one like FAL\
+If you are confused by the term "strong copyleft" and "GPL compatible" you can learn more at this [gnu.org link](gnu.org/licenses)\
 In the spirit, this is a fork of [guides](https://github.com/naav97/guides) with an added GPLv3, It's pretty cool, go check it out.
 ## TOC
 1. [Android Apps](#android-apps)
