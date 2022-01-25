@@ -6,6 +6,9 @@ We prefer a strong copyleft (like GPL) over a weak copyleft like MPL\
 We prefer a GPL compatible license over a non compatible one like FAL\
 If you are confused by the term "strong copyleft" and "GPL compatible" you can learn more at this [gnu.org link](gnu.org/licenses)\
 In the spirit, this is a fork of [guides](https://github.com/naav97/guides) with an added GPLv3, It's pretty cool, go check it out.
+\
+\
+This list does NOT contain one-to-one replacements, but rather similar projects that share most features or allows such features to be easily patched in a la suckless.
 ## TOC
 1. [Android Apps](#android-apps)
 2. [Command Line](#command-line)
