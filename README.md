@@ -2,16 +2,17 @@
 
 The is a list of popular software that has alternatives with a non-cucked (non-permissive) liscense.\
 [List of Copyleft software licenses](https://en.wikipedia.org/wiki/Category:Copyleft_software_licenses)\
-We prefer a strong copyleft (like GPL) over a weak copyleft like MPL\
-We prefer a GPL compatible license over a non compatible one like FAL\
+We prefer a strong copyleft (like GPL) over a weak copyleft. (like MPL)\
+In fact MPL is the weakest copyleft allowed on the uncucked list.
 If you are confused by the term "strong copyleft" and "GPL compatible" you can learn more at this [gnu.org link](gnu.org/licenses)\
-In the spirit, this is a fork of [guides](https://github.com/naav97/guides) with an added GPLv3, It's pretty cool, go check it out.
+In the copyleft spirit, this is a fork of [guides](https://github.com/naav97/guides) with GPLv3 added, It's pretty cool, go check it out.
 \
 \
 This list does NOT contain one-to-one replacements, but rather similar projects that share most features or allows such features to be easily patched in a la suckless.
 ## TOC
-1. [Android Apps](#android-apps)
-2. [Command Line](#command-line)
+0. [Android Apps](#android-apps)
+1. [Command Line](#command-line)
+2. [Browsing](#browsing)
 3. [Communication](#communication)
 3.1. [Desktop Client](#desktop-client)
 4. [Data](#data)
@@ -81,7 +82,7 @@ This list does NOT contain one-to-one replacements, but rather similar projects 
 * *	[xonsh](https://github.com/xonsh/xonsh/blob/main/license)
 * *	[zsh](https://sourceforge.net/p/zsh/code/ci/master/tree/LICENCE)
 * __Shells__:
-
+\
 * *	[Bash](https://git.savannah.gnu.org/cgit/bash.git/tree/COPYING)
 * *	[fish](https://fishshell.com/docs/current/license.html)
 * *	[yash](https://osdn.net/projects/yash/scm/svn/blobs/head/yash/trunk/COPYING)
@@ -111,6 +112,79 @@ This list does NOT contain one-to-one replacements, but rather similar projects 
 * *	[shellinabox](https://github.com/shellinabox/shellinabox/blob/master/COPYING)
 * *	[station](https://invent.kde.org/maui/station/-/blob/master/LICENSES/LGPL-3.0.txt)
 * *	[zutty](https://github.com/tomszilagyi/zutty/blob/master/LICENSE)
+
+
+## Browsing
+* CUCKED Console Web browser
+* *	[w3m](https://salsa.debian.org/debian/w3m/-/blob/master/COPYING)
+* Console Web browser
+* *	[browsh](https://github.com/browsh-org/browsh/blob/master/LICENSE)
+* *	[elinks](http://www.elinks.cz/COPYING)
+* *	[links](http://links.twibright.com/download/COPYING)
+* *	[lynx](https://invisible-mirror.net/archives/lynx/tarballs/lynx-cur.tar.gz)
+* CUCKED Graphical Web browser
+* Blink-based
+* *	[chromium](https://chromium.googlesource.com/chromium/src.git/+/refs/heads/main/LICENSE)
+* Chromium-fork
+* *	[iridium](https://github.com/iridium-browser/iridium-browser/blob/master/LICENSE)
+* *	[ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium/blob/master/LICENSE)
+* electron-based
+* *	[beaker](https://github.com/beakerbrowser/beaker/blob/master/LICENSE)
+* *	[ferdi](https://github.com/getferdi/ferdi/blob/develop/LICENSE)
+* *	[franz](https://github.com/meetfranz/franz/blob/master/LICENSE)
+* *	[min](https://github.com/minbrowser/min/blob/master/LICENSE.txt)
+* Firefox-fork
+* * [tor-browser](https://gitweb.torproject.org/tor-browser.git/tree/COPYING)
+* Gecko-based
+* Gemini Broswer
+* Gopher Broswer
+* Other
+* qt5-webengine-based
+* *	[dooble](https://github.com/textbrowser/dooble/blob/master/LICENSE)
+* *	[lirios](https://github.com/lirios/browser/blob/develop/LICENSE.BSD)
+* qt5-webkit-based
+* Webkit2gtk-based
+* *	[badwolf](https://hacktivis.me/git/badwolf/file/COPYING.html)
+* *	[lariza](https://www.uninformativ.de/git/lariza/file/LICENSE.html)
+* *	[nyxt](https://github.com/atlas-engineer/nyxt/blob/master/licenses/SOURCE-LICENSE)
+* *	[surf](https://git.suckless.org/surf/file/LICENSE.html)
+* Graphical Web browser
+* Chromium-fork
+* * [brave](https://github.com/brave/brave-browser/blob/master/LICENSE)
+* electron-based
+* *	[rambox-community-editition](https://github.com/ramboxapp/community-edition/blob/master/LICENSE)
+* Firefox-fork
+* *	[dothq](https://github.com/dothq/browser-desktop/blob/nightly/LICENSE)
+* *	[FireDragon](https://gitlab.com/dr460nf1r3/settings/-/blob/master/LICENSE.txt)
+* *	[GNU IceCat](https://git.savannah.gnu.org/cgit/gnuzilla.git/tree/COPYING)
+* *	[LibreWolf](https://gitlab.com/librewolf-community/browser/common/-/blob/master/LICENSE)
+* *	[Waterfox](https://github.com/WaterfoxCo/Waterfox-Classic/blob/classic/LICENSE)
+* *	[Waterfox-Classic](https://github.com/WaterfoxCo/Waterfox/blob/current/toolkit/content/license.html)
+* Gecko-based
+* *	[Firefox](https://hg.mozilla.org/mozilla-central/file/tip/toolkit/content/license.html)
+* *	[SeaMonkey](https://gitlab.com/seamonkey-project/seamonkey-2.53-comm/-/blob/2_53_10_2_final/LICENSE)
+* Gemini Browser
+* Gopher Browser
+* *
+* Other
+* qt5-webengine-based
+* *	[Eric](https://hg.die-offenbachs.homelinux.org/eric/file/eric6/docs/LICENSE.GPL3)
+* *	[Falkon](https://invent.kde.org/network/falkon/-/blob/master/COPYING)
+* *	[Konqueror](https://invent.kde.org/network/konqueror/-/tree/master/LICENSES)
+* *	[qtwebbrowser](https://codereview.qt-project.org/gitweb?p=qt-apps/qtwebbrowser.git;a=tree)
+* *	[qutebrowser](https://github.com/qutebrowser/qutebrowser/blob/master/LICENSE)
+* qt5-webkit-based
+* Webkit2gtk-based
+* *	[ephemeral](https://github.com/cassidyjames/ephemeral/blob/main/LICENSE)
+* *	[eolie](https://gitlab.gnome.org/World/eolie/-/blob/master/COPYING)
+* *	[epiphany](https://gitlab.gnome.org/GNOME/epiphany/-/blob/master/COPYING)
+* *	[luakit](https://github.com/luakit/luakit/blob/develop/COPYING.GPLv3)
+* *	[core](https://github.com/midori-browser/core/blob/master/COPYING)
+* *	[surfer](https://github.com/nihilowy/surfer/blob/master/LICENSE)
+* *	[Tangram](https://github.com/sonnyp/Tangram/blob/main/COPYING)
+* *	[vimb](https://github.com/fanglingsu/vimb/blob/master/LICENSE)
+* *	[wyeb](https://github.com/jun7/wyeb/blob/master/COPYING)
+*
 ## Communication
 
 ### Desktop Client
