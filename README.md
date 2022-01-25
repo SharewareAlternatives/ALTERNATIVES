@@ -61,25 +61,25 @@ This list does NOT contain one-to-one replacements, but rather similar projects 
 ## Command Line
 * __CUCKED Shells__:
 
-* *     [beanshell](https://github.com/beanshell/beanshell/blob/master/LICENSE)
-* *     [dash](https://git.kernel.org/pub/scm/utils/dash/dash.git/tree/COPYING)
-* *     [elvish](https://github.com/elves/elvish/blob/master/LICENSE)
-* *     [ion](https://gitlab.redox-os.org/redox-os/ion/-/blob/master/LICENSE)
-* *     Korn Shell
-* * *   [ksh2020](https://github.com/ksh2020/ksh/blob/master/LICENSE)
-* * *   [ksh93](https://github.com/att/ast/blob/master/LICENSE.md)
-* * *   [loksh](https://github.com/dimkr/loksh/blob/master/LEGAL)
-* * *   [mksh](https://www.mirbsd.org/htman/i386/man7/BSD-Licence.htm)
-* * *   [oksh](https://github.com/ibara/oksh/blob/main/LEGAL)
-* *     [nash](https://github.com/NeowayLabs/nash/blob/master/LICENSE)
-* *     [nushell](https://github.com/nushell/nushell/blob/main/LICENSE) - You can't make this shit up.
-* *     [oh](https://github.com/michaelmacinnis/oh/blob/main/LICENSE)
-* *     [osh](https://github.com/oilshell/oil/blob/master/LICENSE.txt)
-* *     [PowerShell](https://github.com/PowerShell/PowerShell/blob/master/LICENSE.txt)
-* *     [rc](https://git.suckless.org/9base/file/LICENSE.html)
-* *     [tcsh](https://github.com/tcsh-org/tcsh/blob/master/Copyright)
-* *     [xonsh](https://github.com/xonsh/xonsh/blob/main/license)
-* *     [zsh](https://sourceforge.net/p/zsh/code/ci/master/tree/LICENCE)
+* *	[beanshell](https://github.com/beanshell/beanshell/blob/master/LICENSE)
+* *	[dash](https://git.kernel.org/pub/scm/utils/dash/dash.git/tree/COPYING)
+* *	[elvish](https://github.com/elves/elvish/blob/master/LICENSE)
+* *	[ion](https://gitlab.redox-os.org/redox-os/ion/-/blob/master/LICENSE)
+* *	Korn Shell
+* * *	[ksh2020](https://github.com/ksh2020/ksh/blob/master/LICENSE)
+* * *	[ksh93](https://github.com/att/ast/blob/master/LICENSE.md)
+* * *	[loksh](https://github.com/dimkr/loksh/blob/master/LEGAL)
+* * *	[mksh](https://www.mirbsd.org/htman/i386/man7/BSD-Licence.htm)
+* * *	[oksh](https://github.com/ibara/oksh/blob/main/LEGAL)
+* *	[nash](https://github.com/NeowayLabs/nash/blob/master/LICENSE)
+* *	[nushell](https://github.com/nushell/nushell/blob/main/LICENSE) - You can't make this shit up.
+* *	[oh](https://github.com/michaelmacinnis/oh/blob/main/LICENSE)
+* *	[osh](https://github.com/oilshell/oil/blob/master/LICENSE.txt)
+* *	[PowerShell](https://github.com/PowerShell/PowerShell/blob/master/LICENSE.txt)
+* *	[rc](https://git.suckless.org/9base/file/LICENSE.html)
+* *	[tcsh](https://github.com/tcsh-org/tcsh/blob/master/Copyright)
+* *	[xonsh](https://github.com/xonsh/xonsh/blob/main/license)
+* *	[zsh](https://sourceforge.net/p/zsh/code/ci/master/tree/LICENCE)
 * __Shells__:
 
 * *	[Bash](https://git.savannah.gnu.org/cgit/bash.git/tree/COPYING)
