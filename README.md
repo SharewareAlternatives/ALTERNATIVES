@@ -85,8 +85,32 @@ This list does NOT contain one-to-one replacements, but rather similar projects 
 * *	[Bash](https://git.savannah.gnu.org/cgit/bash.git/tree/COPYING)
 * *	[fish](https://fishshell.com/docs/current/license.html)
 * *	[yash](https://osdn.net/projects/yash/scm/svn/blobs/head/yash/trunk/COPYING)
-* __Terminal Emulator__:
+* __CUCKED Terminal Emulators__:
 
+* *	[alacritty](https://github.com/alacritty/alacritty/blob/master/LICENSE-APACHE)
+* *	[foot](https://codeberg.org/dnkl/foot/src/branch/master/LICENSE)
+* *	[hyper](https://github.com/vercel/hyper/blob/canary/LICENSE)
+* *	[mlterm](https://github.com/arakiken/mlterm/blob/master/LICENCE)
+* *	[puTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/licence.html)
+* *	[st](https://git.suckless.org/st/file/LICENSE.html)
+* *	[Terminology](https://github.com/Enlightenment/enlightenment/blob/master/COPYING)
+* *	[wayst](https://github.com/91861/wayst/blob/master/LICENSE)
+* *	[xterm](https://invisible-mirror.net/xterm/xterm.html)
+* __Terminal Emulators__
+
+* *	[cool-retro-term](https://github.com/Swordfish90/cool-retro-term/blob/master/gpl-3.0.txt)
+* *	[coreterminal](https://gitlab.com/cubocore/coreapps/coreterminal/-/blob/master/LICENSE)
+* *	[cutecom](https://gitlab.com/cutecom/cutecom/-/blob/master/LICENSE)
+* *	[deepin-terminal](https://github.com/linuxdeepin/deepin-terminal/blob/master/LICENSE)
+* *	[Konsole](https://invent.kde.org/utilities/konsole/-/blob/master/COPYING)
+* *	[kitty](https://github.com/kovidgoyal/kitty/blob/master/LICENSE)
+* *	[lirios](https://github.com/lirios/terminal/blob/develop/LICENSE.GPLv3)
+* *	[moserial](https://gitlab.gnome.org/GNOME/moserial/-/blob/master/COPYING)
+* *	[qterminal](https://github.com/lxqt/qterminal/blob/master/LICENSE)
+* *	[rxvt-unicode](https://github.com/exg/rxvt-unicode/blob/main/COPYING)
+* *	[shellinabox](https://github.com/shellinabox/shellinabox/blob/master/COPYING)
+* *	[station](https://invent.kde.org/maui/station/-/blob/master/LICENSES/LGPL-3.0.txt)
+* *	[zutty](https://github.com/tomszilagyi/zutty/blob/master/LICENSE)
 ## Communication
 
 ### Desktop Client
