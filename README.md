@@ -1,6 +1,6 @@
 # ALTERNATIVES TO CUCKWARE
 
-The list is built pointing to popular software that has alternatives with a non-cucked (non permissive) liscense.
+The is a list of popular software that has alternatives with a non-cucked (non-permissive) liscense.
 [List of Copyleft software licenses](https://en.wikipedia.org/wiki/Category:Copyleft_software_licenses)
 We prefer a strong copyleft (like GPL) over a weak copyleft like MPL
 We prefer a GPL compatible license over a non compatible one like FAL
