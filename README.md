@@ -82,7 +82,7 @@ This list does NOT contain one-to-one replacements, but rather similar projects 
 * *	[xonsh](https://github.com/xonsh/xonsh/blob/main/license)
 * *	[zsh](https://sourceforge.net/p/zsh/code/ci/master/tree/LICENCE)
 * __Shells__:
-\
+
 * *	[Bash](https://git.savannah.gnu.org/cgit/bash.git/tree/COPYING)
 * *	[fish](https://fishshell.com/docs/current/license.html)
 * *	[yash](https://osdn.net/projects/yash/scm/svn/blobs/head/yash/trunk/COPYING)
@@ -117,74 +117,97 @@ This list does NOT contain one-to-one replacements, but rather similar projects 
 ## Browsing
 * CUCKED Console Web browser
 * *	[w3m](https://salsa.debian.org/debian/w3m/-/blob/master/COPYING)
-* Console Web browser
-* *	[browsh](https://github.com/browsh-org/browsh/blob/master/LICENSE)
-* *	[elinks](http://www.elinks.cz/COPYING)
-* *	[links](http://links.twibright.com/download/COPYING)
-* *	[lynx](https://invisible-mirror.net/archives/lynx/tarballs/lynx-cur.tar.gz)
+* * Console Web browser
+* * *	[browsh](https://github.com/browsh-org/browsh/blob/master/LICENSE)
+* * *	[elinks](http://www.elinks.cz/COPYING)
+* * *	[links](http://links.twibright.com/download/COPYING)
+* * *	[lynx](https://invisible-mirror.net/archives/lynx/tarballs/lynx-cur.tar.gz)
 * CUCKED Graphical Web browser
-* Blink-based
-* *	[chromium](https://chromium.googlesource.com/chromium/src.git/+/refs/heads/main/LICENSE)
-* Chromium-fork
-* *	[iridium](https://github.com/iridium-browser/iridium-browser/blob/master/LICENSE)
-* *	[ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium/blob/master/LICENSE)
-* electron-based
-* *	[beaker](https://github.com/beakerbrowser/beaker/blob/master/LICENSE)
-* *	[ferdi](https://github.com/getferdi/ferdi/blob/develop/LICENSE)
-* *	[franz](https://github.com/meetfranz/franz/blob/master/LICENSE)
-* *	[min](https://github.com/minbrowser/min/blob/master/LICENSE.txt)
-* Firefox-fork
-* * [tor-browser](https://gitweb.torproject.org/tor-browser.git/tree/COPYING)
-* Gecko-based
-* Gemini Broswer
-* Gopher Broswer
-* Other
-* qt5-webengine-based
-* *	[dooble](https://github.com/textbrowser/dooble/blob/master/LICENSE)
-* *	[lirios](https://github.com/lirios/browser/blob/develop/LICENSE.BSD)
-* qt5-webkit-based
-* Webkit2gtk-based
-* *	[badwolf](https://hacktivis.me/git/badwolf/file/COPYING.html)
-* *	[lariza](https://www.uninformativ.de/git/lariza/file/LICENSE.html)
-* *	[nyxt](https://github.com/atlas-engineer/nyxt/blob/master/licenses/SOURCE-LICENSE)
-* *	[surf](https://git.suckless.org/surf/file/LICENSE.html)
+* * Blink-based
+* * *	[chromium](https://chromium.googlesource.com/chromium/src.git/+/refs/heads/main/LICENSE)
+* * Chromium-fork
+* * *	[iridium](https://github.com/iridium-browser/iridium-browser/blob/master/LICENSE)
+* * *	[ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium/blob/master/LICENSE)
+* * electron-based
+* * *	[beaker](https://github.com/beakerbrowser/beaker/blob/master/LICENSE)
+* * *	[ferdi](https://github.com/getferdi/ferdi/blob/develop/LICENSE)
+* * *	[franz](https://github.com/meetfranz/franz/blob/master/LICENSE)
+* * *	[min](https://github.com/minbrowser/min/blob/master/LICENSE.txt)
+* *Firefox-fork
+* * *	[tor-browser](https://gitweb.torproject.org/tor-browser.git/tree/COPYING)
+* * Gecko-based
+* * Gemini Broswer
+* * *	[asuka](https://git.sr.ht/~julienxx/asuka/tree/master/item/LICENSE) Rei chads win again
+* * *	[AV-98](https://tildegit.org/solderpunk/AV-98/src/branch/master/LICENSE)
+* * *	[bollux](https://tildegit.org/acdw/bollux/src/branch/main/LICENSE)
+* * *	[castor](https://git.sr.ht/~julienxx/castor/tree/master/item/LICENSE)
+* * *	[fafi](https://git.sr.ht/~soapdog/fafi-browser/tree/master/item/LICENSE)
+* * *	[lagrange](https://github.com/skyjake/lagrange/blob/dev/LICENSE.md)
+* * *	[moonlander](https://git.sr.ht/~admicos/moonlander/tree/main/item/LICENSE)
+* * Gopher Broswer
+* * Other
+* * qt5-webengine-based
+* * *	[dooble](https://github.com/textbrowser/dooble/blob/master/LICENSE)
+* * *	[lirios](https://github.com/lirios/browser/blob/develop/LICENSE.BSD)
+* * qt5-webkit-based
+* * Webkit2gtk-based
+* * *	[badwolf](https://hacktivis.me/git/badwolf/file/COPYING.html)
+* * *	[lariza](https://www.uninformativ.de/git/lariza/file/LICENSE.html)
+* * *	[nyxt](https://github.com/atlas-engineer/nyxt/blob/master/licenses/SOURCE-LICENSE)
+* * *	[surf](https://git.suckless.org/surf/file/LICENSE.html)
 * Graphical Web browser
-* Chromium-fork
-* * [brave](https://github.com/brave/brave-browser/blob/master/LICENSE)
-* electron-based
-* *	[rambox-community-editition](https://github.com/ramboxapp/community-edition/blob/master/LICENSE)
-* Firefox-fork
-* *	[dothq](https://github.com/dothq/browser-desktop/blob/nightly/LICENSE)
-* *	[FireDragon](https://gitlab.com/dr460nf1r3/settings/-/blob/master/LICENSE.txt)
-* *	[GNU IceCat](https://git.savannah.gnu.org/cgit/gnuzilla.git/tree/COPYING)
-* *	[LibreWolf](https://gitlab.com/librewolf-community/browser/common/-/blob/master/LICENSE)
-* *	[Waterfox](https://github.com/WaterfoxCo/Waterfox-Classic/blob/classic/LICENSE)
-* *	[Waterfox-Classic](https://github.com/WaterfoxCo/Waterfox/blob/current/toolkit/content/license.html)
-* Gecko-based
-* *	[Firefox](https://hg.mozilla.org/mozilla-central/file/tip/toolkit/content/license.html)
-* *	[SeaMonkey](https://gitlab.com/seamonkey-project/seamonkey-2.53-comm/-/blob/2_53_10_2_final/LICENSE)
-* Gemini Browser
-* Gopher Browser
+* * Chromium-fork
+* * *	[brave](https://github.com/brave/brave-browser/blob/master/LICENSE)
+* * electron-based
+* * *	[rambox-community-editition](https://github.com/ramboxapp/community-edition/blob/master/LICENSE)
+* * Firefox-fork
+* * *	[dothq](https://github.com/dothq/browser-desktop/blob/nightly/LICENSE)
+* * *	[FireDragon](https://gitlab.com/dr460nf1r3/settings/-/blob/master/LICENSE.txt)
+* * *	[GNU IceCat](https://git.savannah.gnu.org/cgit/gnuzilla.git/tree/COPYING)
+* * *	[LibreWolf](https://gitlab.com/librewolf-community/browser/common/-/blob/master/LICENSE)
+* * *	[Waterfox](https://github.com/WaterfoxCo/Waterfox-Classic/blob/classic/LICENSE)
+* * *	[Waterfox-Classic](https://github.com/WaterfoxCo/Waterfox/blob/current/toolkit/content/license.html)
+* * Gecko-based
+* * *	[Firefox](https://hg.mozilla.org/mozilla-central/file/tip/toolkit/content/license.html)
+* * *	[SeaMonkey](https://gitlab.com/seamonkey-project/seamonkey-2.53-comm/-/blob/2_53_10_2_final/LICENSE)
+* * Gemini Browser
+* * *	[amfora](https://github.com/makeworld-the-better-one/amfora/blob/master/LICENSE)
+* * *	[bombadillo](https://tildegit.org/sloum/bombadillo/src/branch/master/LICENSE)
+* * *	[deedum](https://github.com/snoe/deedum/blob/master/LICENSE)
+* * *	[elpher](https://github.com/emacsmirror/elpher/blob/master/COPYING)
+* * *	[gmni](https://git.sr.ht/~sircmpwn/gmni/tree/master/item/COPYING)
+* * *	[kristall](https://github.com/MasterQ32/kristall/blob/master/LICENSE)
+* * *	[Starfish](https://github.com/starfish-app/Starfish/blob/main/COPYING)
+* * *	[twinpeaks](https://github.com/InvisibleUp/twinpeaks/blob/master/LICENSE)
+* * Gopher Browser
 * *
-* Other
-* qt5-webengine-based
-* *	[Eric](https://hg.die-offenbachs.homelinux.org/eric/file/eric6/docs/LICENSE.GPL3)
-* *	[Falkon](https://invent.kde.org/network/falkon/-/blob/master/COPYING)
-* *	[Konqueror](https://invent.kde.org/network/konqueror/-/tree/master/LICENSES)
-* *	[qtwebbrowser](https://codereview.qt-project.org/gitweb?p=qt-apps/qtwebbrowser.git;a=tree)
-* *	[qutebrowser](https://github.com/qutebrowser/qutebrowser/blob/master/LICENSE)
-* qt5-webkit-based
-* Webkit2gtk-based
-* *	[ephemeral](https://github.com/cassidyjames/ephemeral/blob/main/LICENSE)
-* *	[eolie](https://gitlab.gnome.org/World/eolie/-/blob/master/COPYING)
-* *	[epiphany](https://gitlab.gnome.org/GNOME/epiphany/-/blob/master/COPYING)
-* *	[luakit](https://github.com/luakit/luakit/blob/develop/COPYING.GPLv3)
-* *	[core](https://github.com/midori-browser/core/blob/master/COPYING)
-* *	[surfer](https://github.com/nihilowy/surfer/blob/master/LICENSE)
-* *	[Tangram](https://github.com/sonnyp/Tangram/blob/main/COPYING)
-* *	[vimb](https://github.com/fanglingsu/vimb/blob/master/LICENSE)
-* *	[wyeb](https://github.com/jun7/wyeb/blob/master/COPYING)
-*
+* * Other
+* * *	[Basilisk](https://repo.palemoon.org/mcp-graveyard/Basilisk/src/commit/f94c0da6777df813285b4fba53ccd0280fec200f/LICENSE)
+* * *	[dillo](https://hg.dillo.org/dillo/file/tip/COPYING)
+* * *	[NetSurf](https://source.netsurf-browser.org/netsurf.git/tree/COPYING)
+* * *	[Pale Moon](https://www.palemoon.org/licensing.shtml)
+* * qt5-webengine-based
+* * *	[Eric](https://hg.die-offenbachs.homelinux.org/eric/file/eric6/docs/LICENSE.GPL3)
+* * *	[Falkon](https://invent.kde.org/network/falkon/-/blob/master/COPYING)
+* * *	[Konqueror](https://invent.kde.org/network/konqueror/-/tree/master/LICENSES)
+* * *	[qtwebbrowser](https://codereview.qt-project.org/gitweb?p=qt-apps/qtwebbrowser.git;a=tree)
+* * *	[qutebrowser](https://github.com/qutebrowser/qutebrowser/blob/master/LICENSE)
+* * qt5-webkit-based
+* * *	[OSPKit](http://osp.kitchen/tools/ospkit/tree/master/agpl-3.0.txt#project-detail-files)
+* * *	[OttherBrowser](https://github.com/OtterBrowser/otter-browser/blob/master/COPYING)
+* * *	[qutebrowser](https://github.com/qutebrowser/qutebrowser/blob/master/LICENSE)
+* * *	[smtube](https://github.com/smplayer-dev/smtube/blob/master/Copying.txt)
+* * *	[WCGBrowser](https://github.com/alandmoore/wcgbrowser/blob/master/README.rst#license)
+* * Webkit2gtk-based
+* * *	[ephemeral](https://github.com/cassidyjames/ephemeral/blob/main/LICENSE)
+* * *	[eolie](https://gitlab.gnome.org/World/eolie/-/blob/master/COPYING)
+* * *	[epiphany](https://gitlab.gnome.org/GNOME/epiphany/-/blob/master/COPYING)
+* * *	[luakit](https://github.com/luakit/luakit/blob/develop/COPYING.GPLv3)
+* * *	[core](https://github.com/midori-browser/core/blob/master/COPYING)
+* * *	[surfer](https://github.com/nihilowy/surfer/blob/master/LICENSE)
+* * *	[Tangram](https://github.com/sonnyp/Tangram/blob/main/COPYING)
+* * *	[vimb](https://github.com/fanglingsu/vimb/blob/master/LICENSE)
+* * *	[wyeb](https://github.com/jun7/wyeb/blob/master/COPYING)
 ## Communication
 
 ### Desktop Client
