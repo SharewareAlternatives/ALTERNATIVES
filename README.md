@@ -118,10 +118,10 @@ This list does NOT contain one-to-one replacements, but rather similar projects 
 * CUCKED Console Web browser
 * *	[w3m](https://salsa.debian.org/debian/w3m/-/blob/master/COPYING)
 * Console Web browser
-* * *	[browsh](https://github.com/browsh-org/browsh/blob/master/LICENSE)
-* * *	[elinks](http://www.elinks.cz/COPYING)
-* * *	[links](http://links.twibright.com/download/COPYING)
-* * *	[lynx](https://invisible-mirror.net/archives/lynx/tarballs/lynx-cur.tar.gz)
+* *	[browsh](https://github.com/browsh-org/browsh/blob/master/LICENSE)
+* *	[elinks](http://www.elinks.cz/COPYING)
+* *	[links](http://links.twibright.com/download/COPYING)
+* *	[lynx](https://invisible-mirror.net/archives/lynx/tarballs/lynx-cur.tar.gz)
 * CUCKED Graphical Web browser
 * * Blink-based
 * * *	[chromium](https://chromium.googlesource.com/chromium/src.git/+/refs/heads/main/LICENSE)
