@@ -133,7 +133,7 @@ This list does NOT contain one-to-one replacements, but rather similar projects 
 * * *	[ferdi](https://github.com/getferdi/ferdi/blob/develop/LICENSE)
 * * *	[franz](https://github.com/meetfranz/franz/blob/master/LICENSE)
 * * *	[min](https://github.com/minbrowser/min/blob/master/LICENSE.txt)
-* *Firefox-fork
+* * Firefox-fork
 * * *	[tor-browser](https://gitweb.torproject.org/tor-browser.git/tree/COPYING)
 * * Gecko-based
 * * Gemini Broswer
