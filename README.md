@@ -117,7 +117,7 @@ This list does NOT contain one-to-one replacements, but rather similar projects 
 ## Browsing
 * CUCKED Console Web browser
 * *	[w3m](https://salsa.debian.org/debian/w3m/-/blob/master/COPYING)
-* * Console Web browser
+* Console Web browser
 * * *	[browsh](https://github.com/browsh-org/browsh/blob/master/LICENSE)
 * * *	[elinks](http://www.elinks.cz/COPYING)
 * * *	[links](http://links.twibright.com/download/COPYING)
