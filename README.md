@@ -194,7 +194,7 @@ This list does NOT contain one-to-one replacements, but rather similar projects 
 * * *	[qutebrowser](https://github.com/qutebrowser/qutebrowser/blob/master/LICENSE)
 * * qt5-webkit-based
 * * *	[OSPKit](http://osp.kitchen/tools/ospkit/tree/master/agpl-3.0.txt#project-detail-files)
-* * *	[OttherBrowser](https://github.com/OtterBrowser/otter-browser/blob/master/COPYING)
+* * *	[Otter Browser](https://github.com/OtterBrowser/otter-browser/blob/master/COPYING)
 * * *	[qutebrowser](https://github.com/qutebrowser/qutebrowser/blob/master/LICENSE)
 * * *	[smtube](https://github.com/smplayer-dev/smtube/blob/master/Copying.txt)
 * * *	[WCGBrowser](https://github.com/alandmoore/wcgbrowser/blob/master/README.rst#license)
